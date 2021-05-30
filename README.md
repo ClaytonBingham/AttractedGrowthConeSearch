@@ -4,7 +4,7 @@ This script is used to support the addition of biologically realistic jitter to 
 
 ![AGCS Example](https://github.com/bingsome/AttractedGrowthConeSearch/blob/master/docs/animation.gif)
 
-![AGCS comparison with Random Jitter](https://github.com/bingsome/AttractedGrowthConeSearch/blob/master/docs/Meander.png)
+![AGCS comparison with Random Jitter](https://github.com/bingsome/AttractedGrowthConeSearch/blob/master/docs/Meanders.png)
 
 Originally this package was written to aid the construction of biologically realistic neural models for use in computational studies of extracellular electrical stimulation but it can be used for diverse neural modeling problems.
 
