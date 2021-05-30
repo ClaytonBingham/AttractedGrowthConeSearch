@@ -2,6 +2,10 @@ Attracted Growth Cone Search (AGCS)
 
 This script is used to support the addition of biologically realistic jitter to curves based on histological data. The basic principle of this method is to utilized hypothetical growth cones to control the meander angles which are added in the new line. This is preferable to random jitter which can add extreme meander angles and overlapping segments if not properly controlled. AGCS can be better used to control the parametric distribution of meander angles without disrupting the distribution of segment lengths beyond that which is reasonable.
 
+If you use this class in your own work, kindly cite: 
+
+"Bingham C.S., Parent M., McIntyre C.C. Histology-Driven Model of the Macaque Motor Hyperdirect Pathway. (Accepted 2021). Brain Structure and Function."
+
 ![AGCS Example](https://github.com/bingsome/AttractedGrowthConeSearch/blob/master/docs/animation.gif)
 
 ![AGCS comparison with Random Jitter](https://github.com/bingsome/AttractedGrowthConeSearch/blob/master/docs/Meanders.png)
